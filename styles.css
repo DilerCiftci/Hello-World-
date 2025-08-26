@@ -1,0 +1,13 @@
+body {
+	background-color: cornflowerblue;
+    color: silver;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main {
+    text-align: center;
+    align-items: center;
+    height: 100px;
+    padding: 20px;
+    border: 1px solid lightblue;
+}
